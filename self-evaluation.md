@@ -1,0 +1,1 @@
+I have a basic understanding of arrays. I would not say I feel confident. I would like to learn what an array of booleans would look like. And to practice the syntax of speaking about arrays, elements, index positions, methods, "calls". 
